@@ -1,0 +1,9 @@
+#include "com_example_mytest_MainActivity.h"
+
+dfadfjafa;sdfsf
+
+JNIEXPORT jstring JNICALL Java_com_example_mytest_MainActivity_getMyData
+  (JNIEnv * pEnv, jobject obj)
+{
+	return (*pEnv)-> NewStringUTF(pEnv, "My First Native App!");
+}

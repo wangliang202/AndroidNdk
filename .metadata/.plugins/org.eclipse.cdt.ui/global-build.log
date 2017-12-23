@@ -1,0 +1,228 @@
+22:21:55 **** Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:3:1: warning: data definition has no type or storage class [enabled by default]
+jni/com_example_mytest_MainActivity.c:3:11: warning: data definition has no type or storage class [enabled by default]
+jni/com_example_mytest_MainActivity.c:5:11: error: expected ',' or ';' before 'jstring'
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:23:00 **** Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:24:21 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:24:25 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:30:03 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:30:33 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:30:51 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:31:21 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:31:33 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:32:33 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:32:52 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:33:50 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:37:46 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:39:59 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:41:16 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:42:01 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:42:41 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:44:22 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:44:43 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:44:50 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:45:51 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:46:05 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:46:31 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:47:09 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:47:13 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: warning: extra tokens at end of #include directive [enabled by default]
+jni/com_example_mytest_MainActivity.c:1:46: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:47:15 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: warning: extra tokens at end of #include directive [enabled by default]
+jni/com_example_mytest_MainActivity.c:1:46: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:47:25 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+jni/com_example_mytest_MainActivity.c:1:45: warning: extra tokens at end of #include directive [enabled by default]
+jni/com_example_mytest_MainActivity.c:1:46: fatal error: com_example_mytest_MainActivity.h: No such file or directory
+compilation terminated.
+make.exe: *** [obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o] Error 1
+22:47:43 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:47:56 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:48:14 **** Clean-only build of configuration Default for project MyTest ****
+ndk-build.cmd clean 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Clean          : mylib [armeabi]
+[armeabi] Clean          : stdc++ [armeabi]
+22:48:15 **** Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:49:33 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:50:15 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:50:21 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:52:30 **** Incremental Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:52:32 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+make.exe: *** No rule to make target `jni/com_example_mytest_MainActivity.c', needed by `obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o'.  Stop.
+22:52:56 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:53:13 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+22:55:05 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Compile thumb  : mylib <= com_example_mytest_MainActivity.c
+[armeabi] SharedLibrary  : libmylib.so
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+13:46:21 **** Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+13:46:24 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so

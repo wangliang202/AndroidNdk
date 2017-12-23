@@ -1,0 +1,13 @@
+package com.store;
+
+public class Store {
+	
+	static {
+//		System.loadLibrary("store");
+	}
+	
+	public native String getDataString();
+	public native void setDataString();
+	public native Integer getDataInteger();
+	public native void setDataInteger();
+}

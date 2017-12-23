@@ -1,0 +1,5 @@
+package com.store;
+
+enum StoreType {
+	Store_Integer, Store_String
+}

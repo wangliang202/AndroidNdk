@@ -1,0 +1,2 @@
+obj/local/armeabi/objs/mylib/com_example_mytest_MainActivity.o: \
+ jni/com_example_mytest_MainActivity.c

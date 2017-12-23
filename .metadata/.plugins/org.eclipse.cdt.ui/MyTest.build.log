@@ -1,0 +1,7 @@
+13:46:24 **** Auto Build of configuration Default for project MyTest ****
+ndk-build.cmd all 
+Android NDK: WARNING: APP_PLATFORM android-19 is larger than android:minSdkVersion 14 in ./AndroidManifest.xml    
+[armeabi] Install        : libmylib.so => libs/armeabi/libmylib.so
+
+13:46:25 Build Finished (took 869ms)
+
