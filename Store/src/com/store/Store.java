@@ -6,8 +6,8 @@ public class Store {
 //		System.loadLibrary("store");
 	}
 	
-	public native String getString();
-	public native void setString();
-	public native Integer getInteger();
-	public native void setInteger();
+	public native String getString(String pKey);
+	public native void setString(String pKey, String pValue);
+	public native Integer getInteger(String pKey);
+	public native void setInteger(String pKey, Integer pValue);
 }

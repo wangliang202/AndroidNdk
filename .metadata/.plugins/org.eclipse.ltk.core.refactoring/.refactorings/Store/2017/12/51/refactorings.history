@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Convert local variable &apos;com.store.MainActivity.onCreate().store&apos; in &apos;com.store.MainActivity.onCreate()&apos; to field&#x0D;&#x0A;- Original project: &apos;Store&apos;&#x0D;&#x0A;- Original element: &apos;com.store.MainActivity.onCreate().store&apos;&#x0D;&#x0A;- Field name: &apos;store&apos;&#x0D;&#x0A;- Initialize field in method&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" description="Convert local variable &apos;store&apos; to field" final="false" flags="2" id="org.eclipse.jdt.ui.promote.temp" initialize="1" input="/src&lt;com.store{MainActivity.java" name="store" selection="2056 19" stamp="1514014099947" static="false" version="1.0" visibility="2"/>
+</session>
